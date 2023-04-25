@@ -1,2 +1,1 @@
-# .github
-Replicare Github Home
+# Replicare Github Home
